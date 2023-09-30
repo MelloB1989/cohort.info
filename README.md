@@ -1,7 +1,7 @@
 # Launching a New Cohort for First Year B.Tech Students
 
 ## Overview
-We are excited to launch a 6-month cohort specially tailored for first year B.Tech students, offering comprehensive learning in C, Python, and Web Development. This program provides students with an AI mentor to guide them through the course content, cloud labs for practical experience, and a vibrant student community (Zenith batch) for enhanced collaborative learning.
+We are excited to launch a 6-month cohort specially tailored for first year B.Tech students, offering comprehensive learning in C, Python, and Web Development. This program provides students with an AI mentor to guide them through the course content, guidance from master mentors, cloud labs for practical experience, and a vibrant student community (Zenith batch) for enhanced collaborative learning.
 
 ## Key Features
 
@@ -31,6 +31,7 @@ We are excited to launch a 6-month cohort specially tailored for first year B.Te
 - Develop comprehensive skills in C, Python, and Web Development.
 - Build an impressive portfolio with real projects and websites.
 - Enhance learning with AI mentors, peer interaction, and expert guidance.
+- Certificate of completion
   
 ## Conclusion
 Be part of this exciting journey to amplify your skills and knowledge, supported by advanced technology and a vibrant learning community. Join us in the path to achieving academic and professional excellence together.
